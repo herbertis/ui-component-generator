@@ -4,7 +4,7 @@ Ferramenta que usa IA (Claude) para gerar componentes React + TypeScript + Tailw
 
 ## Demo
 
-[🔗 Ver projeto ao vivo](https://sua-url.vercel.app)
+[🔗 Ver projeto ao vivo](https://ui-component-generator-ten.vercel.app/)
 
 ## Como funciona
 
